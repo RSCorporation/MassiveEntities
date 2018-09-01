@@ -41,6 +41,9 @@
     <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Internal\Distance.cs" />
+    <Compile Include="Sources\Entity.cs" />
+    <Compile Include="Internal\Position.cs" />
     <Compile Include="Sources\Program.cs" />
     <AdditionalFiles Include="Sources\CycledFormatter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
