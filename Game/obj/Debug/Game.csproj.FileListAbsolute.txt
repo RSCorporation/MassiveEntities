@@ -1,0 +1,6 @@
+E:\Git\MassiveEntities\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Git\MassiveEntities\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Git\MassiveEntities\Game\bin\Debug\Game.exe
+E:\Git\MassiveEntities\Game\bin\Debug\Game.pdb
+E:\Git\MassiveEntities\Game\obj\Debug\Game.exe
+E:\Git\MassiveEntities\Game\obj\Debug\Game.pdb
